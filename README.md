@@ -1,4 +1,3 @@
-![logo](https://github.com/Vaibhav-Mote/Vaibhav-Mote/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Vaibhav Mote</h1>
 <h3 align="center">A passionate Software developer from India</h3>
